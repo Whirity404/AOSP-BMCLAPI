@@ -1,6 +1,6 @@
 # awesome-openbmclapi
 
-| 项目名称 | 语言 | 平台 |
-|---|---|---|
-| [OpenBMCLAPI](https://github.com/bangbang93/openbmclapi) | Node.JS | All |
-| [go-OpenBMCLAPI](https://github.com/LiterMC/go-openbmclapi) | Go | All |
+AOSP-BMCLAPI_备份.zip: https://url41.ctfile.com/f/38677841-1048877600-d37780?p=6371 （访问密码：6371）
+
+请使用vm破解版打开！
+
